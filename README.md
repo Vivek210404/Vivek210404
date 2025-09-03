@@ -35,7 +35,8 @@ I am a passionate Full Stack Developer with hands-on experience in building scal
 ![](https://github-contributor-stats.vercel.app/api?username=Vivek210404&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🎯 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-kumar-2k23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivek210404@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/suyash607](https://linkedin.com/in/vivek-kumar-2k23)) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivek210404@gmail.com) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
