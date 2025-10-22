@@ -11,7 +11,7 @@
 
 
 ## 🚀 **About Me**
-I am a passionate Full Stack Developer with hands-on experience in building scalable and user-friendly web applications. Skilled in React, TypeScript, Node.js, Express, and MongoDB, I enjoy working across the entire stack—from crafting intuitive front-end interfaces to designing robust back-end systems.
+I am a passionate Full Stack Developer with hands-on experience in building scalable and user-friendly web applications. Skilled in React, TypeScript, Node.js, Express, and MongoDB, I enjoy working across the entire stack from crafting intuitive front-end interfaces to designing robust back-end systems.
 
 <div align="center">
 
