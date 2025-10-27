@@ -36,11 +36,18 @@ I am a passionate Full Stack Developer with hands-on experience in building scal
 ![](https://nirzak-streak-stats.vercel.app/?user=Vivek210404&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek210404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-## 🏆 GitHub Trophies
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivek210404&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek210404&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+</div>
+
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vivek210404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vivek210404&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Vivek210404&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ## 🤝 Connect With Me
 
