@@ -43,6 +43,10 @@ I am a passionate Full Stack Developer with hands-on experience in building scal
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek210404&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vivek210404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vivek210404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
