@@ -38,6 +38,19 @@ I am a passionate Full Stack Developer with hands-on experience in building scal
 
 
 
+---
+
+## 📊 My Coding Profiles & Stats
+
+### 🟧 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vivek210404?ext=heatmap&theme=light&font=baloo)
+
+- 👨‍💻 Solved 700+ problems  
+- 📈 Top 4.5% globally  
+- 🔗 [View My LeetCode Profile](https://leetcode.com/u/vivek210404/)
+
+---
 
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vivek210404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
