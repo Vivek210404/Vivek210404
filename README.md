@@ -1,18 +1,16 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Vivek Kumar
 
-<div align="center">
+### Full-Stack Developer | Problem Solver | Software Engineering Enthusiast
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Final+Year+Student+%40+IIIT+Ranchi;Full-Stack+Developer+%26+Problem+Solver)
+I'm a **Final-Year Computer Science student at IIIT Ranchi** passionate about building **scalable web applications, robust backend systems, and AI-powered products**. I enjoy solving complex problems, learning modern technologies, and turning ideas into real-world solutions.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-
-
-## 🚀 **About Me**
-I am a passionate Full Stack Developer with hands-on experience in building scalable and user-friendly web applications. Skilled in React, TypeScript, Node.js, Express, and MongoDB, I enjoy working across the entire stack from crafting intuitive front-end interfaces to designing robust back-end systems.
-
+* 🌱 **Currently learning:** System Design, Software Architecture & Advanced Backend Development
+* 💻 **Tech I work with:** React.js, Next.js, Node.js, Express.js, MongoDB, MySQL & TypeScript
+* 🚀 **Built:** AI Resume Builder, AI Event Organizer and Real-Time Video Conferencing Platform
+* 🏆 **Achievements:** LeetCode Knight (1908), CodeChef 3★, 1400+ DSA problems solved
+* 💡 **Interested in:** Full-Stack Development, Backend Engineering, System Design & Scalable Applications
+* 🤝 **Open to:** Software Engineering Internships, Full-Time Opportunities & Collaborations
+* 📫 **Reach me:** [vivek210404@gmail.com](mailto:vivek210404@gmail.com)
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Vivek210404&color=21262d&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
