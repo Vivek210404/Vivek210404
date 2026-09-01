@@ -62,7 +62,7 @@ I'm a **Final-Year Computer Science student at IIIT Ranchi** passionate about bu
 <table>
   <tr>
     <td>
-      <a href="http://www.github.com/Shubh7amydv">
+      <a href="http://www.github.com/Vivek210404">
         <img src="https://gh-readme-profile.vercel.app/api?username=Vivek210404&theme=github_dark&hide_stroke=true&hide_border=true" alt="Vivek's GitHub stats" />
       </a>
     </td>
